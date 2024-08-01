@@ -1,4 +1,6 @@
 # demo-program
+
 This is my first Git Repository.
 <br>
-Author - Siddhesh Ghodke
+Author - Siddhesh G
+
