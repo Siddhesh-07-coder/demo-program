@@ -1,2 +1,3 @@
-# demo-program
-This is my first Git Repository
+# demo-repository
+This is my first Git Repository.
+Author - Siddhesh Ghodke
